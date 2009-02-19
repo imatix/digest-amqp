@@ -1,0 +1,1 @@
+Digest-AMQP is a specification for exchanging authentication data between two peers, a front-end requesting application and a back-end credentials server over an AMQP network.
